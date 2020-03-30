@@ -6,4 +6,5 @@ University of Szeged, Computer Science - MSc, 2020.
 Created by:
 
 Gyimóthy János
+
 Brnic Miroslav
